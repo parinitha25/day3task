@@ -1,0 +1,18 @@
+.color{
+	color: red;
+	border-radius:70px;
+	border-style: solid;
+	padding: 40px 50px 60px 70px;
+	margin-right: 700px;
+	text-align: center;
+	/*margin-top: 200px;*/
+}
+.material-icons{
+	margin-right: 1000px;
+	padding: 50px;
+	border-style: solid;
+	border-radius:10px 50px 50px 10px;
+	text-align: center;
+	margin-left:600px;
+	margin-bottom: 300px;
+}
